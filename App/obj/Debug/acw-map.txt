@@ -1,0 +1,8 @@
+App.CustomAdapter, App;md5f22d74140d7efc8f033f3e312f703c5e.CustomAdapter
+App.CustomAdapter, App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f22d74140d7efc8f033f3e312f703c5e.CustomAdapter
+App.CustomAdapter;md5f22d74140d7efc8f033f3e312f703c5e.CustomAdapter
+app.CustomAdapter;md5f22d74140d7efc8f033f3e312f703c5e.CustomAdapter
+App.MainActivity, App;md5f22d74140d7efc8f033f3e312f703c5e.MainActivity
+App.MainActivity, App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f22d74140d7efc8f033f3e312f703c5e.MainActivity
+App.MainActivity;md5f22d74140d7efc8f033f3e312f703c5e.MainActivity
+app.MainActivity;md5f22d74140d7efc8f033f3e312f703c5e.MainActivity
