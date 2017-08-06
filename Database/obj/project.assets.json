@@ -4848,10 +4848,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gtcom\\Documents\\Visual Studio 2017\\Projects\\EAndroid\\Database\\Database.csproj",
+      "projectUniqueName": "E:\\PersonalProject\\eandroid\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "C:\\Users\\gtcom\\Documents\\Visual Studio 2017\\Projects\\EAndroid\\Database\\Database.csproj",
-      "outputPath": "C:\\Users\\gtcom\\Documents\\Visual Studio 2017\\Projects\\EAndroid\\Database\\obj\\",
+      "projectPath": "E:\\PersonalProject\\eandroid\\Database\\Database.csproj",
+      "outputPath": "E:\\PersonalProject\\eandroid\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.3"

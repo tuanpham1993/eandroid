@@ -9,7 +9,7 @@ namespace App
 {
   public class CustomAdapter : BaseAdapter<Word>
   {
-    private readonly List<Word> words;
+    public List<Word> words;
     private readonly Activity context;
     public CustomAdapter(Activity context, List<Word> words)
         : base()
@@ -29,6 +29,7 @@ namespace App
     {
       get { return words.Count; }
     }
+
     public override View GetView(int position, View convertView, ViewGroup parent)
     {
       var item = words[position];

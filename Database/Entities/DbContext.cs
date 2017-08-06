@@ -10,8 +10,6 @@ namespace Database.Entities
       DatabasePath = databasePath;
     }
 
-    public virtual DbSet<CommonWord> CommonWords { get; set; }
-    public virtual DbSet<Manual> Manuals { get; set; }
     public virtual DbSet<Word> Words { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

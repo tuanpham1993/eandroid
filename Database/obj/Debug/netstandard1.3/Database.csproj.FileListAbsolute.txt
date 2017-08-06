@@ -5,3 +5,10 @@ C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\Database\obj\Debug
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\Database\bin\Debug\netstandard1.3\Database.pdb
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\Database\obj\Debug\netstandard1.3\Database.dll
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\Database\obj\Debug\netstandard1.3\Database.pdb
+E:\PersonalProject\eandroid\Database\bin\Debug\netstandard1.3\Database.deps.json
+E:\PersonalProject\eandroid\Database\bin\Debug\netstandard1.3\Database.dll
+E:\PersonalProject\eandroid\Database\bin\Debug\netstandard1.3\Database.pdb
+E:\PersonalProject\eandroid\Database\obj\Debug\netstandard1.3\Database.csprojResolveAssemblyReference.cache
+E:\PersonalProject\eandroid\Database\obj\Debug\netstandard1.3\Database.AssemblyInfo.cs
+E:\PersonalProject\eandroid\Database\obj\Debug\netstandard1.3\Database.dll
+E:\PersonalProject\eandroid\Database\obj\Debug\netstandard1.3\Database.pdb

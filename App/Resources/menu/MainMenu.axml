@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/addForget"
+        android:title="Add To Forget" />
+  <item android:id="@+id/addCommon"
+        android:title="Add To Common" />
+  <item android:id="@+id/viewForget"
+        android:title="View Forget" />
+  <item android:id="@+id/removeForget"
+        android:title="Remove All Forget" />
+<item android:id="@+id/viewCommon"
+        android:title="View Common" />
+<item android:id="@+id/viewAll"
+        android:title="View All" />
+<item android:id="@+id/reload"
+        android:title="Reload" />
+</menu>
