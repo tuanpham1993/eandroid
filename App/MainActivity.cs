@@ -65,7 +65,7 @@ namespace App
       //db.Words.AddRange(list);
       //db.SaveChanges();
 
-      words = db.Words.Where(x => !x.IsCommon).ToList();
+      words = db.Words.Where(x => !x.IsCommon).OrderBy(x=>x.Order).ToList();
       adapter = new CustomAdapter(this, words);
       listView.Adapter = adapter;
 
