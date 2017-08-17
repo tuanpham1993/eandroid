@@ -55,6 +55,7 @@ C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\App\bin\Debug\Html
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\App\bin\Debug\HtmlAgilityPack.dll.mdb
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\App\obj\Debug\android\assets\HtmlAgilityPack.dll.mdb
 C:\Users\gtcom\Documents\Visual Studio 2017\Projects\EAndroid\App\obj\Debug\res\layout\customlistview.xml
+E:\PersonalProject\eandroid\App\obj\Debug\App.csprojResolveAssemblyReference.cache
 E:\PersonalProject\eandroid\App\bin\Debug\App.dll
 E:\PersonalProject\eandroid\App\bin\Debug\App.pdb
 E:\PersonalProject\eandroid\App\bin\Debug\App.App.apk
@@ -80,8 +81,6 @@ E:\PersonalProject\eandroid\App\bin\Debug\System.Interactive.Async.dll
 E:\PersonalProject\eandroid\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 E:\PersonalProject\eandroid\App\bin\Debug\Database.pdb
 E:\PersonalProject\eandroid\App\bin\Debug\HtmlAgilityPack.pdb
-E:\PersonalProject\eandroid\App\bin\Debug\HtmlAgilityPack.xml
-E:\PersonalProject\eandroid\App\bin\Debug\HtmlAgilityPack.dll.mdb
 E:\PersonalProject\eandroid\App\bin\Debug\Microsoft.Data.Sqlite.xml
 E:\PersonalProject\eandroid\App\bin\Debug\Microsoft.EntityFrameworkCore.xml
 E:\PersonalProject\eandroid\App\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
@@ -99,11 +98,11 @@ E:\PersonalProject\eandroid\App\bin\Debug\System.Collections.Immutable.xml
 E:\PersonalProject\eandroid\App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 E:\PersonalProject\eandroid\App\bin\Debug\System.Interactive.Async.xml
 E:\PersonalProject\eandroid\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-E:\PersonalProject\eandroid\App\obj\Debug\App.csprojResolveAssemblyReference.cache
 E:\PersonalProject\eandroid\App\obj\Debug\App.dll
 E:\PersonalProject\eandroid\App\obj\Debug\App.pdb
 E:\PersonalProject\eandroid\App\obj\Debug\android\bin\App.App.apk
 E:\PersonalProject\eandroid\App\obj\Debug\res\layout\customlistview.xml
+E:\PersonalProject\eandroid\App\obj\Debug\res\menu\mainmenu.xml
 E:\PersonalProject\eandroid\App\obj\Debug\res\layout\main.xml
 E:\PersonalProject\eandroid\App\obj\Debug\res\values\strings.xml
 E:\PersonalProject\eandroid\App\obj\Debug\res\drawable\icon.png
@@ -111,5 +110,3 @@ E:\PersonalProject\eandroid\App\obj\Debug\R.cs.flag
 E:\PersonalProject\eandroid\App\obj\Debug\uploadflags.txt
 E:\PersonalProject\eandroid\App\bin\Debug\App.dll.mdb
 E:\PersonalProject\eandroid\App\obj\Debug\android\assets\App.dll.mdb
-E:\PersonalProject\eandroid\App\obj\Debug\android\assets\HtmlAgilityPack.dll.mdb
-E:\PersonalProject\eandroid\App\obj\Debug\res\menu\mainmenu.xml

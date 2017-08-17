@@ -17,7 +17,7 @@ using Android.Content.PM;
 
 namespace App
 {
-  [Activity(Label = "EAndroid", MainLauncher = true, Icon = "@drawable/icon", ConfigurationChanges = ConfigChanges.Orientation, ScreenOrientation = ScreenOrientation.Portrait)]
+  [Activity(Label = "EAndroid", MainLauncher = true, Icon = "@drawable/icon", ResizeableActivity = true, ConfigurationChanges = ConfigChanges.Orientation, ScreenOrientation = ScreenOrientation.Portrait)]
   public class MainActivity : Activity
   {
     public EAppContext db;

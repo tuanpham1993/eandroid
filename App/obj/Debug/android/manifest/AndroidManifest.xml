@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="App" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation" android:icon="@drawable/icon" android:label="EAndroid" android:screenOrientation="portrait" android:name="md5f22d74140d7efc8f033f3e312f703c5e.MainActivity">
+    <activity android:configChanges="orientation" android:icon="@drawable/icon" android:label="EAndroid" android:resizeableActivity="true" android:screenOrientation="portrait" android:name="md5f22d74140d7efc8f033f3e312f703c5e.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
